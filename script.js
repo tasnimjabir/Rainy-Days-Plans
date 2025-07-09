@@ -1,3 +1,9 @@
+/*
+  Project: Rainy Day’s Plans
+  Description: A cartoon-style draggable To-Do List with rain effects and floating tasks.
+  Author: Tasnim Jabir (https://github.com/tasnimjabir)
+*/
+
 const cursor = document.querySelector('.custom-cursor');
 let size = 40;
 const minSize = 40;
